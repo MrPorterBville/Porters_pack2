@@ -4,8 +4,8 @@
 		1,
 		0
 	],
-	"THE:porter_box": {
+	"porter:porter_box": {
 		"sound": "stone",
-		"textures": "THE_porter_box"
+		"textures": "porter_porter_box"
 	}
 }
