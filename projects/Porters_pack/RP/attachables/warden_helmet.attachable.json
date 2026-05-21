@@ -1,0 +1,25 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "wiki:warden_helmet",
+      "materials": {
+        "default": "entity_nocull",
+        "enchanted": "entity_custom_glint"
+      },
+      "textures": {
+        "default": "textures/models/armor/warden_head_texture",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.warden_head"
+      },
+      "scripts": {
+        "parent_setup": "variable.chest_layer_visible = 0.0; variable.boot_layer_visible = 0.0; variable.leg_layer_visible = 0.0; variable.helmet_layer_visible = 1.0;"
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}

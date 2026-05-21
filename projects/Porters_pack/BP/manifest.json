@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Warden Head Armor Behavior Pack",
+    "name": "Warden Head BP",
+    "uuid": "9a0f336c-a783-430a-9230-afc7d5270745",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 10]
+  },
+  "modules": [
+    {
+      "description": "Warden Head BP Module",
+      "type": "data",
+      "uuid": "f914b7c2-359e-47f2-a6e8-b147ce08e4d1",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Warden Head Armor Resource Pack",
+    "name": "Warden Head RP",
+    "uuid": "d2bf4c66-3e0a-4d0e-a8d8-98af951fd636",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 10]
+  },
+  "modules": [
+    {
+      "description": "Warden Head RP Module",
+      "type": "resources",
+      "uuid": "b33792c2-bc3a-4e2f-81bd-6122847733c8",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9a0f336c-a783-430a-9230-afc7d5270745",
+      "version": [1, 0, 0]
+    }
+  ]
+}

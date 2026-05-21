@@ -1,0 +1,11 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"THE:porter_box": {
+		"sound": "stone",
+		"textures": "THE_porter_box"
+	}
+}
