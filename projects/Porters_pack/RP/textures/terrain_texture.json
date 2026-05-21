@@ -4,7 +4,7 @@
 	"resource_pack_name": "Porters_pack",
 	"texture_name": "atlas.terrain",
 	"texture_data": {
-		"THE_porter_box": {
+		"porter_porter_box": {
 			"textures": "textures/blocks/porter_box"
 		}
 	}

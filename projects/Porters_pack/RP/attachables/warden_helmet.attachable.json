@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "wiki:warden_helmet",
+      "identifier": "porter:warden_helmet",
       "materials": {
         "default": "entity_nocull",
         "enchanted": "entity_custom_glint"
